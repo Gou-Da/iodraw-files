@@ -7,25 +7,23 @@
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-41" value="资源采集适配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="8160" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-42" value="数据治理与坐标映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="545" y="8259" width="206" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-43" value="拓扑构建与出境方向识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="8358" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-41" target="7ChQ2Is6HLT8GViSTKdu-42">
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="648" y="8259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-42" target="7ChQ2Is6HLT8GViSTKdu-43">
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="648" y="8308" as="sourcePoint" />
+            <mxPoint x="648" y="8358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-43">
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="648" y="8407" as="sourcePoint" />
             <mxPoint x="648" y="8457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -37,10 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-50" value="数据治理与坐标映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="8240" width="157" height="49" as="geometry" />
+          <mxGeometry x="570" y="8260" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-51" value="拓扑构建与出境方向识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="8340" width="157" height="49" as="geometry" />
+          <mxGeometry x="569.5" y="8360" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-52" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="569.5" y="8460" width="157" height="49" as="geometry" />
