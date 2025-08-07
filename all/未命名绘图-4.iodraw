@@ -45,8 +45,11 @@
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-51" value="拓扑构建与出境方向识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="8340" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-52" value="拓扑构建与出境方向识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="8350" width="157" height="49" as="geometry" />
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-52" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="8440" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-53" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="8450" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
