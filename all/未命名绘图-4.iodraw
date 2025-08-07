@@ -85,11 +85,11 @@
         <mxCell id="txIDZibteVGmkItIJCn8-121" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;支撑层：能力保障&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="912.25" y="6780" width="175.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-1" target="7ChQ2Is6HLT8GViSTKdu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-1" value="原始数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="7031" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-6" value="接口对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="694" y="7554" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-16" value="数据治理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="7129" width="158" height="49" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="536" y="7410" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-20" value="接口对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="7505" width="158" height="49" as="geometry" />
+          <mxGeometry x="536" y="7500" width="158" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
