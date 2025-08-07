@@ -13,9 +13,6 @@
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-43" value="拓扑构建与出境方向识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="8358" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-44" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="545" y="8457" width="206" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-41" target="7ChQ2Is6HLT8GViSTKdu-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -26,14 +23,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-43" target="7ChQ2Is6HLT8GViSTKdu-44">
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="648" y="8457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-44">
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="648" y="8506" as="sourcePoint" />
             <mxPoint x="648.5" y="8556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -44,10 +43,10 @@
           <mxGeometry x="330" y="8340" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-52" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="8440" width="157" height="49" as="geometry" />
+          <mxGeometry x="569.5" y="8460" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-53" value="可视化分析服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="8550" width="157" height="49" as="geometry" />
+          <mxGeometry x="569.5" y="8560" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
