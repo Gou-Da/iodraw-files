@@ -103,14 +103,17 @@
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-17" value="知识融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="7220" width="158" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-18" target="7ChQ2Is6HLT8GViSTKdu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-18" value="知识图谱存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="7320" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-19" value="智能分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="536" y="7410" width="158" height="49" as="geometry" />
+          <mxGeometry x="530" y="7410" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-20" value="接口对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="536" y="7500" width="158" height="49" as="geometry" />
+          <mxGeometry x="530" y="7500" width="158" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
