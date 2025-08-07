@@ -4,81 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-26" value="业务需求捕获" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="712" y="7570" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-27" value="资源实时扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="651" y="7669" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-28" value="双向映射建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="651" y="7780" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-29" value="智能推荐与决策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="643" y="7880" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-30" value="预占与冲突校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="7989" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-31" value="容量预测与告警" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="754" y="7989" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-32" value="可视化与接口服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="747" y="8088" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-26" target="7ChQ2Is6HLT8GViSTKdu-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="729" y="7644" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-27" target="7ChQ2Is6HLT8GViSTKdu-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-28" target="7ChQ2Is6HLT8GViSTKdu-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-29" target="7ChQ2Is6HLT8GViSTKdu-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="617" y="7964" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-29" target="7ChQ2Is6HLT8GViSTKdu-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="841" y="7964" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-30" target="7ChQ2Is6HLT8GViSTKdu-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="617" y="8063" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-31" target="7ChQ2Is6HLT8GViSTKdu-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-40" value="反馈" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.96;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="963" y="8049" />
-              <mxPoint x="963" y="7630" />
-              <mxPoint x="990" y="7596" />
-            </Array>
-            <mxPoint x="936" y="8098.5" as="sourcePoint" />
-            <mxPoint x="869" y="7603.04" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-41" value="资源采集适配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="8160" width="157" height="49" as="geometry" />
         </mxCell>
@@ -113,6 +38,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-50" value="资源采集适配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="8240" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
