@@ -88,9 +88,6 @@
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-1" value="原始数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="7031" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-5" value="智能分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="886" y="7432" width="126" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-6" value="接口对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="694" y="7554" width="124" height="49" as="geometry" />
         </mxCell>
@@ -102,6 +99,9 @@
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-18" value="知识图谱存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="7320" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-19" value="智能分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="536" y="7410" width="158" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
