@@ -11,7 +11,7 @@
           <mxGeometry x="651" y="7669" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-28" value="双向映射建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="7768" width="158" height="49" as="geometry" />
+          <mxGeometry x="651" y="7780" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-29" value="智能推荐与决策" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="642" y="7890" width="174" height="49" as="geometry" />
