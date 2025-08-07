@@ -39,7 +39,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-50" value="资源采集适配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-50" value="数据治理与坐标映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="8240" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
