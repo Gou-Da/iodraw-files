@@ -16,9 +16,6 @@
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-44" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="545" y="8457" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-45" value="可视化分析服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="562" y="8556" width="173" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-41" target="7ChQ2Is6HLT8GViSTKdu-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -34,9 +31,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-44" target="7ChQ2Is6HLT8GViSTKdu-45">
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7ChQ2Is6HLT8GViSTKdu-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="648.5" y="8556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-50" value="数据治理与坐标映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -48,8 +46,8 @@
         <mxCell id="7ChQ2Is6HLT8GViSTKdu-52" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="8440" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7ChQ2Is6HLT8GViSTKdu-53" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="8450" width="157" height="49" as="geometry" />
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-53" value="可视化分析服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="8550" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
