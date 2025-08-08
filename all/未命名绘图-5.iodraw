@@ -7,9 +7,6 @@
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-1" value="流量镜像与DPI解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="601" y="8630" width="197" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-4" value="风险与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="613" y="8945" width="174" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-5" value="主要网站信息库写入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="598" y="9044" width="204" height="49" as="geometry" />
         </mxCell>
@@ -29,15 +26,17 @@
             <mxPoint x="700" y="8846" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="_HR9Fs-cLxMJoOs-OrAK-4">
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="700" y="8895" as="sourcePoint" />
+            <mxPoint x="700" y="8945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-4" target="_HR9Fs-cLxMJoOs-OrAK-5">
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="_HR9Fs-cLxMJoOs-OrAK-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="700" y="8994" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-5" target="_HR9Fs-cLxMJoOs-OrAK-6">
@@ -51,8 +50,8 @@
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-13" value="外部情报补全" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="601" y="8847" width="197" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-14" value="外部情报补全" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="340" y="8960" width="197" height="49" as="geometry" />
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-14" value="风险与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="601" y="8940" width="197" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
