@@ -7,20 +7,19 @@
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-31" value="IP数据接收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="587" y="9700" width="138" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-32" value="IP标注引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="587" y="9799" width="138" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-35" value="文档与SDK提供" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="572" y="10096" width="169" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-31" target="_HR9Fs-cLxMJoOs-OrAK-32">
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="656" y="9799" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-32">
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="656" y="9848" as="sourcePoint" />
             <mxPoint x="656" y="9898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -44,7 +43,10 @@
           <mxGeometry x="572" y="9900" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-42" value="IP标注引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="329" y="9770" width="169" height="49" as="geometry" />
+          <mxGeometry x="571.5" y="9800" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-43" value="IP标注引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="9690" width="169" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
