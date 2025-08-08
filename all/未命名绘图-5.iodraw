@@ -7,9 +7,6 @@
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-1" value="流量镜像与DPI解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="601" y="8630" width="197" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-6" value="检索与策略联动接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="597" y="9143" width="205" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -37,10 +34,11 @@
             <mxPoint x="700" y="9044" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="_HR9Fs-cLxMJoOs-OrAK-6">
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="700" y="9093" as="sourcePoint" />
+            <mxPoint x="699.5" y="9143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-12" value="域名/IP归并&amp;活跃度计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -54,6 +52,9 @@
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-15" value="主要网站信息库写入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="601" y="9044" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-16" value="主要网站信息库写入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="601" y="9150" width="197" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
