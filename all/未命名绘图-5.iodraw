@@ -38,10 +38,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-40" value="API接口服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="270" y="10010" width="169" height="49" as="geometry" />
+          <mxGeometry x="572" y="10000" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-41" value="数据标准化与格式转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="572" y="9900" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-42" value="IP标注引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="9770" width="169" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
