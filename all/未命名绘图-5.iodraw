@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-31" value="IP数据接收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="661" y="9700" width="138" height="49" as="geometry" />
+          <mxGeometry x="587" y="9700" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-32" value="IP标注引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="661" y="9799" width="138" height="49" as="geometry" />
+          <mxGeometry x="587" y="9799" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-33" value="数据标准化与格式转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="619" y="9898" width="222" height="49" as="geometry" />
+          <mxGeometry x="545" y="9898" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-34" value="API接口服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="656" y="9997" width="149" height="49" as="geometry" />
+          <mxGeometry x="582" y="9997" width="149" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-35" value="文档与SDK提供" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="646" y="10096" width="169" height="49" as="geometry" />
+          <mxGeometry x="572" y="10096" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-31" target="_HR9Fs-cLxMJoOs-OrAK-32">
           <mxGeometry relative="1" as="geometry">
@@ -38,6 +38,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-40" value="文档与SDK提供" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10010" width="169" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
