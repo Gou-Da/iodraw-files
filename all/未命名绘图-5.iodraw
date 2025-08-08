@@ -49,7 +49,10 @@
           <mxGeometry x="601" y="8730" width="197" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-13" value="外部情报补全" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="601" y="8850" width="197" height="49" as="geometry" />
+          <mxGeometry x="601" y="8847" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-14" value="外部情报补全" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="8960" width="197" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
