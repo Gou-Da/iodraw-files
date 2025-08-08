@@ -56,7 +56,10 @@
           <mxGeometry x="618" y="9410" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-29" value="秒级查询与变更追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="690" y="9509" width="170" height="49" as="geometry" />
+          <mxGeometry x="688" y="9509" width="170" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-30" value="秒级查询与变更追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="9629" width="170" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
