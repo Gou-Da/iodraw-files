@@ -51,8 +51,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-27" value="分布式DNS采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-27" value="数据治理与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190" y="9309" width="170" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-28" value="数据治理与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="9430" width="170" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
