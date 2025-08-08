@@ -54,7 +54,54 @@
           <mxGeometry x="601" y="9044" width="197" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-16" value="主要网站信息库写入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="601" y="9150" width="197" height="49" as="geometry" />
+          <mxGeometry x="602" y="9144" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-17" value="分布式DNS采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="618" y="9210" width="170" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-18" value="数据治理与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="9309" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-19" value="图建模与全域存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="609" y="9408" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-20" value="秒级查询与变更追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="669" y="9507" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-21" value="流量可视与策略联动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="601" y="9629" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-17" target="_HR9Fs-cLxMJoOs-OrAK-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-18" target="_HR9Fs-cLxMJoOs-OrAK-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-19" target="_HR9Fs-cLxMJoOs-OrAK-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="772" y="9482" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-19" target="_HR9Fs-cLxMJoOs-OrAK-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="9482" />
+              <mxPoint x="634" y="9593" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-26" value="反馈" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-20" target="_HR9Fs-cLxMJoOs-OrAK-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="772" y="9593" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
