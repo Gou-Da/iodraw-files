@@ -1,0 +1,95 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="d7N0G3kS_LiY8EvqXIcC">
+    <mxGraphModel dx="1434" dy="-6178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-41" value="资源采集适配" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="570" y="8160" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="7ChQ2Is6HLT8GViSTKdu-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="648" y="8259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="648" y="8308" as="sourcePoint" />
+            <mxPoint x="648" y="8358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="648" y="8407" as="sourcePoint" />
+            <mxPoint x="648" y="8457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="648" y="8506" as="sourcePoint" />
+            <mxPoint x="648.5" y="8556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-50" value="数据治理与坐标映射" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="570" y="8260" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-51" value="拓扑构建与出境方向识别" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="8360" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-52" value="实时更新与版本管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="8460" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7ChQ2Is6HLT8GViSTKdu-53" value="可视化分析服务" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="569.5" y="8560" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-1" value="流量镜像与DPI解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="601" y="8630" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-2" value="域名/IP归并&amp;活跃度计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="8729" width="260" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-3" value="外部情报补全" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="621" y="8846" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-4" value="风险与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="613" y="8945" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-5" value="主要网站信息库写入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="598" y="9044" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-6" value="检索与策略联动接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="597" y="9143" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-1" target="_HR9Fs-cLxMJoOs-OrAK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-2" target="_HR9Fs-cLxMJoOs-OrAK-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-3" target="_HR9Fs-cLxMJoOs-OrAK-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-4" target="_HR9Fs-cLxMJoOs-OrAK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="_HR9Fs-cLxMJoOs-OrAK-5" target="_HR9Fs-cLxMJoOs-OrAK-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
