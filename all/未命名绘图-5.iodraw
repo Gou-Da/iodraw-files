@@ -51,7 +51,10 @@
           <mxGeometry x="601" y="8847" width="197" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_HR9Fs-cLxMJoOs-OrAK-14" value="风险与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="601" y="8940" width="197" height="49" as="geometry" />
+          <mxGeometry x="601" y="8943" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_HR9Fs-cLxMJoOs-OrAK-15" value="风险与合规打标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="9020" width="197" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
