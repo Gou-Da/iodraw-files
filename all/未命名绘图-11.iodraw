@@ -13,9 +13,6 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-78" value="生成容量告警事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="184" y="2203" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-80" value="阈值、预测值、建议扩容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2401" width="236" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -55,10 +52,11 @@
             <mxPoint x="278.5" y="2302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-80">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="278.5" y="2351" as="sourcePoint" />
+            <mxPoint x="278" y="2401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-89" value="未超出" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-77">
@@ -84,8 +82,8 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-94" value="静默处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="176.5" y="2300" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-95" value="静默处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2390" width="204" height="49" as="geometry" />
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-95" value="阈值、预测值、建议扩容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="2400" width="204" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
