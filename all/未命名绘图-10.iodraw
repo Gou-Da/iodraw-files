@@ -25,9 +25,6 @@
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-60" value="图谱变更事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="629" y="2360" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-62" value="运营商 OSS/BSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="2580" width="172" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-63" value="Kafka 消息确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="2690" width="170" height="49" as="geometry" />
         </mxCell>
@@ -90,9 +87,10 @@
             <mxPoint x="707" y="2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-62">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="706" y="2629" as="sourcePoint" />
             <mxPoint x="707" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -100,7 +98,10 @@
           <mxGeometry x="628.5" y="2480" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-75" value="运营商 OSS/BSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="2510" width="157" height="49" as="geometry" />
+          <mxGeometry x="629" y="2580" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-76" value="运营商 OSS/BSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2760" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
