@@ -39,6 +39,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-167" value="接收模块&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="203" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
