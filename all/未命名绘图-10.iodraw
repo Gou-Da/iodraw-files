@@ -7,9 +7,6 @@
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-1" value="高质量清洗后数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="830" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-4" value="关系关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="54" y="1127" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-5" value="统一知识模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1226" width="157" height="49" as="geometry" />
         </mxCell>
@@ -29,15 +26,17 @@
             <mxPoint x="116" y="1028" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-4">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="116" y="1077" as="sourcePoint" />
+            <mxPoint x="116.5" y="1127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-4" target="-TsluM_Ecw2aA5BNNUWy-5">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="116.5" y="1176" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-5" target="-TsluM_Ecw2aA5BNNUWy-6">
@@ -50,6 +49,9 @@
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-13" value="消歧与去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="1030" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-14" value="关系关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1140" width="189" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
