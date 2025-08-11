@@ -31,9 +31,6 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-9" value="生成资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="181" y="581" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-10" value="资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="196" y="680" width="126" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-1" target="gdkVvxTFDPakSuxXCSdS-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -105,13 +102,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-9" target="gdkVvxTFDPakSuxXCSdS-10">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="259" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-23" value="扫描任务指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="30" width="158" height="49" as="geometry" />
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-23" value="资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="158" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
