@@ -7,9 +7,6 @@
         <mxCell id="jiw8KcI64-UkJHJVn4eL-2" value="资产主数据模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="586" y="10277" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jiw8KcI64-UkJHJVn4eL-5" value="审计与合规模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="672" y="10643" width="172" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="jiw8KcI64-UkJHJVn4eL-6" value="新增/变更" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="jiw8KcI64-UkJHJVn4eL-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -31,20 +28,22 @@
             <mxPoint x="672" y="10521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jiw8KcI64-UkJHJVn4eL-9" value="状态&amp;日志" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" target="jiw8KcI64-UkJHJVn4eL-5">
+        <mxCell id="jiw8KcI64-UkJHJVn4eL-9" value="状态&amp;日志" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="672" y="10607" />
             </Array>
             <mxPoint x="672" y="10570" as="sourcePoint" />
+            <mxPoint x="723.5999999999999" y="10643" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jiw8KcI64-UkJHJVn4eL-10" value="合规报告" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.71;entryY=1;rounded=0;" edge="1" parent="1" source="jiw8KcI64-UkJHJVn4eL-5">
+        <mxCell id="jiw8KcI64-UkJHJVn4eL-10" value="合规报告" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.71;entryY=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="844" y="10607" />
               <mxPoint x="844" y="10241" />
             </Array>
+            <mxPoint x="792.4000000000001" y="10643" as="sourcePoint" />
             <mxPoint x="784.5900000000001" y="10204" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -57,8 +56,8 @@
         <mxCell id="jiw8KcI64-UkJHJVn4eL-13" value="生命周期与变更模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="586" y="10521" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jiw8KcI64-UkJHJVn4eL-14" value="生命周期与变更模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="10720" width="172" height="49" as="geometry" />
+        <mxCell id="jiw8KcI64-UkJHJVn4eL-14" value="审计与合规模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="672" y="10640" width="172" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
