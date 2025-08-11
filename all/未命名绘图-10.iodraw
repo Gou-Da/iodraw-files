@@ -39,7 +39,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-87" value="实时监听" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="220" height="49" as="geometry" />
+          <mxGeometry x="40" y="120" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-88" value="实时监听" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="218" width="220" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
