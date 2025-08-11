@@ -55,7 +55,10 @@
           <mxGeometry x="586" y="10400" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jiw8KcI64-UkJHJVn4eL-13" value="生命周期与变更模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="10490" width="172" height="49" as="geometry" />
+          <mxGeometry x="586" y="10521" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jiw8KcI64-UkJHJVn4eL-14" value="生命周期与变更模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10720" width="172" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
