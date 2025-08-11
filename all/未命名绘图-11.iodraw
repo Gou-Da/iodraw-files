@@ -31,7 +31,7 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-9" value="生成资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="181" y="581" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-10" value="POP节点&#xa;端口余量&#xa;路由&#xa;带宽池&#xa;保护路径&#xa;增值功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-10" value="资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="196" y="680" width="126" height="137" as="geometry" />
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-1" target="gdkVvxTFDPakSuxXCSdS-2">
