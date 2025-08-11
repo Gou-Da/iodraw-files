@@ -49,7 +49,10 @@
           <mxGeometry x="41.5" y="1010" width="214" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-98" value="去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1220" width="214" height="49" as="geometry" />
+          <mxGeometry x="41.5" y="1110" width="214" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-99" value="去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1257" width="214" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
