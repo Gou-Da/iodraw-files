@@ -4,57 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-21" value="增量写入图数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1567" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="399.5" y="1319" as="sourcePoint" />
-            <mxPoint x="399.5000000000002" y="1369" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="399.5000000000002" y="1418" as="sourcePoint" />
-            <mxPoint x="400" y="1468" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="t3-fZMNGUR4GeTdsBv2f-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="400" y="1517" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t3-fZMNGUR4GeTdsBv2f-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="399.5000000000002" y="1666" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="399.5000000000002" y="1715" as="sourcePoint" />
-            <mxPoint x="399.5000000000002" y="1765" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-29" value="历史版本保留" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1670" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-30" value="最新拓扑快照 + 版本索引" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1770" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-31" value="Kafka 流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1470" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-32" value="CDC 捕获" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1369" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="t3-fZMNGUR4GeTdsBv2f-33" value="资源变更事件流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="1280" width="189" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="t3-fZMNGUR4GeTdsBv2f-34" value="查询/分析请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="606" y="1840" width="166" height="49" as="geometry" />
         </mxCell>
