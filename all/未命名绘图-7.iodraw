@@ -7,9 +7,6 @@
         <mxCell id="4UW6Ccs236QqxT_dVfpL-1" value="台账资产列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="1160" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4UW6Ccs236QqxT_dVfpL-4" value="指标映射与可视化模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="104" y="1526" width="221" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="4UW6Ccs236QqxT_dVfpL-5" value="资产编码/IP" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4UW6Ccs236QqxT_dVfpL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -25,27 +22,32 @@
             <mxPoint x="138.5" y="1404" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4UW6Ccs236QqxT_dVfpL-7" value="原始流量指标流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" target="4UW6Ccs236QqxT_dVfpL-4">
+        <mxCell id="4UW6Ccs236QqxT_dVfpL-7" value="原始流量指标流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="138" y="1490" />
             </Array>
             <mxPoint x="138.5" y="1453" as="sourcePoint" />
+            <mxPoint x="183.55999999999995" y="1526" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4UW6Ccs236QqxT_dVfpL-8" value="实时流量&amp;告警" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0.7;entryY=1;rounded=0;" edge="1" parent="1" source="4UW6Ccs236QqxT_dVfpL-4" target="4UW6Ccs236QqxT_dVfpL-1">
+        <mxCell id="4UW6Ccs236QqxT_dVfpL-8" value="实时流量&amp;告警" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0.7;entryY=1;rounded=0;" edge="1" parent="1" target="4UW6Ccs236QqxT_dVfpL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="291" y="1490" />
               <mxPoint x="291" y="1246" />
             </Array>
+            <mxPoint x="245.44000000000005" y="1526" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4UW6Ccs236QqxT_dVfpL-9" value="设备发现与台账同步模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="1280" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4UW6Ccs236QqxT_dVfpL-10" value="流量采集引擎模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1390" width="157" height="49" as="geometry" />
+          <mxGeometry x="60" y="1400" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4UW6Ccs236QqxT_dVfpL-11" value="指标映射与可视化模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1540" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
