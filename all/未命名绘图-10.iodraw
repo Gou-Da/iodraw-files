@@ -26,7 +26,7 @@
           <mxGeometry x="629" y="2360" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-62" value="运营商 OSS/BSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="621" y="2623" width="172" height="49" as="geometry" />
+          <mxGeometry x="621" y="2600" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-63" value="Kafka 消息确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="622" y="2722" width="170" height="49" as="geometry" />
