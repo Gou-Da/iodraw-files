@@ -19,9 +19,6 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-29" value="风险等级判定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="88" y="317" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-30" value="打标记录&#xa;含风险评分 JSON" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="416" width="182" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-25" target="ihJaGzNI_bMHwuoJwNSM-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -55,10 +52,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-29" target="ihJaGzNI_bMHwuoJwNSM-30">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="167" y="416" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-37" value="打标记录&#xa;含风险评分 JSON" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="88" y="420" width="158" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
