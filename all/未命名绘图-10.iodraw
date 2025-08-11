@@ -7,9 +7,6 @@
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-1" value="高质量清洗后数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="830" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-5" value="统一知识模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="1226" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-6" value="实体-关系三元组&#xa;节点属性 + 边属性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1325" width="192" height="67" as="geometry" />
         </mxCell>
@@ -33,15 +30,17 @@
             <mxPoint x="116.5" y="1127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-5">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="116.5" y="1176" as="sourcePoint" />
+            <mxPoint x="116.5" y="1226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-5" target="-TsluM_Ecw2aA5BNNUWy-6">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="116.5" y="1275" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-12" value="实体识别与对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -53,8 +52,8 @@
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-14" value="关系关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="21.5" y="1130" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-15" value="关系关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1226" width="189" height="49" as="geometry" />
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-15" value="统一知识模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22" y="1230" width="189" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
