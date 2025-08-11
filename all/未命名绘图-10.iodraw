@@ -1,108 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="d7N0G3kS_LiY8EvqXIcC">
-    <mxGraphModel dx="1434" dy="-333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="-1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-33" value="用户/运营分析请求&#xa;（API或UI）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="418" y="1970" width="197" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-34" value="查询引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="454" y="2087" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-35" value="拓扑可视化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="54" y="2186" width="141" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-36" value="异常检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="267" y="2186" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-37" value="容量预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="441" y="2186" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-38" value="SLA评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="616" y="2186" width="117" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-39" value="优化建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="783" y="2186" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-40" value="可视化图表URL" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="2285" width="169" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-41" value="告警事件流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="259" y="2285" width="141" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-42" value="决策建议JSON" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="594" y="2285" width="161" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-33" target="-TsluM_Ecw2aA5BNNUWy-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-34" target="-TsluM_Ecw2aA5BNNUWy-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="124" y="2161" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-34" target="-TsluM_Ecw2aA5BNNUWy-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="329" y="2161" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-34" target="-TsluM_Ecw2aA5BNNUWy-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="504" y="2161" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-34" target="-TsluM_Ecw2aA5BNNUWy-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="675" y="2161" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-34" target="-TsluM_Ecw2aA5BNNUWy-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="846" y="2161" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-35" target="-TsluM_Ecw2aA5BNNUWy-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-36" target="-TsluM_Ecw2aA5BNNUWy-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.02;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-37" target="-TsluM_Ecw2aA5BNNUWy-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="504" y="2260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-38" target="-TsluM_Ecw2aA5BNNUWy-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.02;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-39" target="-TsluM_Ecw2aA5BNNUWy-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="846" y="2260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-54" value="外部查询/订阅请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="201" y="2360" width="198" height="49" as="geometry" />
         </mxCell>
@@ -192,6 +93,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-74" value="图谱变更事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2443" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
