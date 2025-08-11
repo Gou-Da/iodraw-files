@@ -109,7 +109,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-23" value="资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="680" width="158" height="49" as="geometry" />
+          <mxGeometry x="180" y="680" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-24" value="周期性触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="142" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
