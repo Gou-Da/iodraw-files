@@ -29,7 +29,7 @@
           <mxGeometry x="620" y="2580" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-63" value="Kafka 消息确认" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="622" y="2722" width="170" height="49" as="geometry" />
+          <mxGeometry x="622.5" y="2690" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-54" target="-TsluM_Ecw2aA5BNNUWy-55">
           <mxGeometry relative="1" as="geometry">
@@ -98,6 +98,9 @@
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-74" value="事件推送引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="628.5" y="2480" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-75" value="运营商 OSS/BSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2510" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
