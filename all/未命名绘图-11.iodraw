@@ -7,9 +7,6 @@
         <mxCell id="_hKEDuXD-hlUD5IdBUKx-43" value="标准化资源记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="3470" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-48" value="带坐标的高质量资源数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="3965" width="237" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="_hKEDuXD-hlUD5IdBUKx-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -37,10 +34,11 @@
             <mxPoint x="299" y="3866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="_hKEDuXD-hlUD5IdBUKx-48">
+        <mxCell id="_hKEDuXD-hlUD5IdBUKx-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="299" y="3915" as="sourcePoint" />
+            <mxPoint x="298.5" y="3965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_hKEDuXD-hlUD5IdBUKx-54" value="清洗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -53,7 +51,10 @@
           <mxGeometry x="211.5" y="3767" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="_hKEDuXD-hlUD5IdBUKx-57" value="GIS坐标映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="3810" width="174" height="49" as="geometry" />
+          <mxGeometry x="212" y="3870" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_hKEDuXD-hlUD5IdBUKx-58" value="带坐标的高质量资源数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3890" width="174" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
