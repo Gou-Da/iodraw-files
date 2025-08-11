@@ -1,76 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="d7N0G3kS_LiY8EvqXIcC">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="-333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-56" value="最优资源方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="970" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-58" value="实时冲突校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1168" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-59" value="冲突检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="283" y="1267" width="113" height="113" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-61" value="返回冲突详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="356" y="1453" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-62" value="预占成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="181" y="1552" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-63" value="预占失败" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="372" y="1552" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="339" y="1069" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="339" y="1118" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-58" target="gdkVvxTFDPakSuxXCSdS-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-67" value="无冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="243" y="1417" />
-            </Array>
-            <mxPoint x="243" y="1453" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-68" value="有冲突" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-59" target="gdkVvxTFDPakSuxXCSdS-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="435" y="1417" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-62">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="243" y="1502" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-61" target="gdkVvxTFDPakSuxXCSdS-63">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-71" value="一键下发预占指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260.5" y="1070" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-72" value="锁定资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="164.5" y="1453" width="158" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-73" value="资源利用率时间序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="1620" width="204" height="49" as="geometry" />
         </mxCell>
@@ -141,6 +74,9 @@
               <mxPoint x="485" y="2167" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-90" value="资源利用率时间序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1729" width="204" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
