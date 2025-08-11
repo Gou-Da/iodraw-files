@@ -38,8 +38,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-169" value="接收模块&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="176" width="203" height="60" as="geometry" />
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-169" value="&#xa;接收模块&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20.5" y="130" width="203" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
