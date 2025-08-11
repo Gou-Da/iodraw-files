@@ -4,109 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-22" value="运营商网管/EMDB 原始接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="415" y="2890" width="256" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-23" value="多协议适配器" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="2989" width="146" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-24" value="SNMP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="3185" width="98" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-25" value="Netconf" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="328" y="3185" width="118" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-26" value="gNMI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="496" y="3185" width="94" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-27" value="SFTP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="640" y="3185" width="94" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-28" value="REST" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="784" y="3185" width="96" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-29" value="原始台账数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="464" y="3284" width="158" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-30" value="标准化资源记录&#xa;JSON" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="456" y="3383" width="174" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-22" target="_hKEDuXD-hlUD5IdBUKx-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-23" target="_hKEDuXD-hlUD5IdBUKx-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="3160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-23" target="_hKEDuXD-hlUD5IdBUKx-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="387" y="3160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-23" target="_hKEDuXD-hlUD5IdBUKx-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-23" target="_hKEDuXD-hlUD5IdBUKx-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="687" y="3160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-23" target="_hKEDuXD-hlUD5IdBUKx-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="832" y="3160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-24" target="_hKEDuXD-hlUD5IdBUKx-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="229" y="3259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.01;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-25" target="_hKEDuXD-hlUD5IdBUKx-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="387" y="3259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-26" target="_hKEDuXD-hlUD5IdBUKx-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.95;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-27" target="_hKEDuXD-hlUD5IdBUKx-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="687" y="3259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-28" target="_hKEDuXD-hlUD5IdBUKx-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="832" y="3259" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_hKEDuXD-hlUD5IdBUKx-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_hKEDuXD-hlUD5IdBUKx-29" target="_hKEDuXD-hlUD5IdBUKx-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_hKEDuXD-hlUD5IdBUKx-43" value="标准化资源记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="3470" width="174" height="49" as="geometry" />
         </mxCell>
@@ -149,6 +46,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_hKEDuXD-hlUD5IdBUKx-54" value="清洗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="3600" width="174" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
