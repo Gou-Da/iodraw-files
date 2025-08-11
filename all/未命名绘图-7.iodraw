@@ -43,6 +43,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4UW6Ccs236QqxT_dVfpL-9" value="台账资产列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="146" y="1170" width="157" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
