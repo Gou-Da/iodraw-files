@@ -7,9 +7,6 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-39" value="写入图数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="119" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-42" value="更新后的网站信息库&#xa;图数据库快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="416" width="205" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -29,10 +26,11 @@
             <mxPoint x="123" y="317" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-42">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="123" y="366" as="sourcePoint" />
+            <mxPoint x="122.5" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-47" value="打标记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -42,7 +40,10 @@
           <mxGeometry x="44.5" y="220" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-49" value="版本追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="290" y="310" width="156" height="49" as="geometry" />
+          <mxGeometry x="44.5" y="320" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-50" value="版本追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
