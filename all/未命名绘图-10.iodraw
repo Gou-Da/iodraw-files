@@ -7,9 +7,6 @@
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-17" value="实体-关系三元组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="41" y="1400" width="180" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-18" value="版本控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="68" y="1499" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-19" value="增量更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="68" y="1598" width="126" height="49" as="geometry" />
         </mxCell>
@@ -22,14 +19,16 @@
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-22" value="&#xa;图数据库快照ID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1895" width="221" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-17" target="-TsluM_Ecw2aA5BNNUWy-18">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="130.5" y="1499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-18" target="-TsluM_Ecw2aA5BNNUWy-19">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="130.5" y="1548" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-19" target="-TsluM_Ecw2aA5BNNUWy-20">
@@ -46,6 +45,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-28" value="版本控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="41" y="1500" width="180" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
