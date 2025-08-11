@@ -44,7 +44,7 @@
           <mxGeometry x="40" y="320" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-90" value="结构化业务需求对象&#xa;需求ID、带宽、SLA、合规标签" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="390" width="220" height="49" as="geometry" />
+          <mxGeometry x="40" y="420" width="220" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
