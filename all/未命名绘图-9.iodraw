@@ -63,6 +63,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4iiSdM6jPbe6GNhvqrr6-37" value="标准化原始记录流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1370" width="190" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
