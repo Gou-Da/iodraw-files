@@ -13,9 +13,6 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-3" value="周期性触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96" y="284" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-4" value="事件触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="288" y="284" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-5" value="全网POP/端口/链路扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="141" y="383" width="235" height="49" as="geometry" />
         </mxCell>
@@ -43,11 +40,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-2" target="gdkVvxTFDPakSuxXCSdS-4">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="351" y="259" />
             </Array>
+            <mxPoint x="350.5" y="284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-3" target="gdkVvxTFDPakSuxXCSdS-5">
@@ -57,11 +55,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-4" target="gdkVvxTFDPakSuxXCSdS-5">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="351" y="358" />
             </Array>
+            <mxPoint x="350.5" y="333" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-5" target="gdkVvxTFDPakSuxXCSdS-6">
@@ -111,8 +110,8 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-23" value="资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="680" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-24" value="周期性触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="310" width="142" height="49" as="geometry" />
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-24" value="事件触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="284" width="142" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
