@@ -13,9 +13,6 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-71" value="DNS报文镜像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="58" y="1334" width="153" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-72" value="zone文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1334" width="127" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-73" value="AXFR/IXFR解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="1433" width="170" height="49" as="geometry" />
         </mxCell>
@@ -37,11 +34,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-70" target="ihJaGzNI_bMHwuoJwNSM-72">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="328" y="1309" />
             </Array>
+            <mxPoint x="328.5" y="1334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-71" target="ihJaGzNI_bMHwuoJwNSM-73">
@@ -58,18 +56,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-72" target="ihJaGzNI_bMHwuoJwNSM-73">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.78;entryY=0;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-73">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="222" y="1408" />
             </Array>
+            <mxPoint x="275.1600000000001" y="1383" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.53;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-72" target="ihJaGzNI_bMHwuoJwNSM-74">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.53;entryY=0;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="348" y="1408" />
             </Array>
+            <mxPoint x="338.6600000000001" y="1383" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-73" target="ihJaGzNI_bMHwuoJwNSM-75">
@@ -86,8 +86,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-85" value="DNS报文镜像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="68" y="1344" width="153" height="49" as="geometry" />
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-85" value="zone文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1334" width="153" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
