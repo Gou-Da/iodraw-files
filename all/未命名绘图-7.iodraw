@@ -7,25 +7,24 @@
         <mxCell id="4UW6Ccs236QqxT_dVfpL-1" value="台账资产列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="1160" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4UW6Ccs236QqxT_dVfpL-2" value="设备发现与台账同步模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1282" width="236" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="4UW6Ccs236QqxT_dVfpL-3" value="流量采集引擎模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="1404" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4UW6Ccs236QqxT_dVfpL-4" value="指标映射与可视化模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="104" y="1526" width="221" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4UW6Ccs236QqxT_dVfpL-5" value="资产编码/IP" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4UW6Ccs236QqxT_dVfpL-1" target="4UW6Ccs236QqxT_dVfpL-2">
+        <mxCell id="4UW6Ccs236QqxT_dVfpL-5" value="资产编码/IP" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4UW6Ccs236QqxT_dVfpL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="138" y="1246" />
             </Array>
+            <mxPoint x="138" y="1282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4UW6Ccs236QqxT_dVfpL-6" value="已同步设备清单" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4UW6Ccs236QqxT_dVfpL-2" target="4UW6Ccs236QqxT_dVfpL-3">
+        <mxCell id="4UW6Ccs236QqxT_dVfpL-6" value="已同步设备清单" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="4UW6Ccs236QqxT_dVfpL-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="138" y="1331" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4UW6Ccs236QqxT_dVfpL-7" value="原始流量指标流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="4UW6Ccs236QqxT_dVfpL-3" target="4UW6Ccs236QqxT_dVfpL-4">
@@ -43,8 +42,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4UW6Ccs236QqxT_dVfpL-9" value="台账资产列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="146" y="1170" width="157" height="49" as="geometry" />
+        <mxCell id="4UW6Ccs236QqxT_dVfpL-9" value="设备发现与台账同步模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1280" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
