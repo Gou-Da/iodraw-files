@@ -7,9 +7,6 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-158" value="、&#xa;流量载荷中的IP数据&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="203" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-161" value="去噪校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="335" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-162" value="标准化原始记录流&#xa;统一 JSON Schema" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="434" width="194" height="67" as="geometry" />
         </mxCell>
@@ -26,22 +23,27 @@
             <mxPoint x="122" y="236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-161">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="122" y="285" as="sourcePoint" />
+            <mxPoint x="121.5" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-166" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-161" target="ihJaGzNI_bMHwuoJwNSM-162">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-166" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="121.5" y="384" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-169" value="&#xa;接收模块&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20.5" y="130" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-170" value="&#xa;批量解析&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="260" width="203" height="60" as="geometry" />
+          <mxGeometry x="20" y="240" width="203" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-171" value="去噪校验&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="203" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
