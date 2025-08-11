@@ -7,9 +7,6 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-73" value="资源利用率时间序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="1620" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-75" value="容量预测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="303" y="1818" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-76" value="未来容量值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="311" y="1917" width="142" height="49" as="geometry" />
         </mxCell>
@@ -34,15 +31,17 @@
             <mxPoint x="382" y="1719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-75">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="382" y="1768" as="sourcePoint" />
+            <mxPoint x="381.5" y="1818" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-75" target="gdkVvxTFDPakSuxXCSdS-76">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="381.5" y="1867" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-76" target="gdkVvxTFDPakSuxXCSdS-77">
@@ -77,8 +76,11 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-90" value="历史流量特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="279.5" y="1720" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-91" value="历史流量特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="1730" width="204" height="49" as="geometry" />
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-91" value="容量预测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1820" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-92" value="容量预测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1830" width="204" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
