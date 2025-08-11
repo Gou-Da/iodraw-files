@@ -7,9 +7,6 @@
         <mxCell id="7SKW_J8cVX1rnJwJUNqm-1" value="端口流量实时采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="930" width="190" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7SKW_J8cVX1rnJwJUNqm-2" value="台账索引与映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="29" y="1029" width="173" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="7SKW_J8cVX1rnJwJUNqm-3" value="业务链路带宽还原" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="21" y="1128" width="189" height="49" as="geometry" />
         </mxCell>
@@ -19,14 +16,16 @@
         <mxCell id="7SKW_J8cVX1rnJwJUNqm-5" value="差距评估报告生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="1326" width="190" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="7SKW_J8cVX1rnJwJUNqm-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7SKW_J8cVX1rnJwJUNqm-1" target="7SKW_J8cVX1rnJwJUNqm-2">
+        <mxCell id="7SKW_J8cVX1rnJwJUNqm-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7SKW_J8cVX1rnJwJUNqm-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="115.5" y="1029" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7SKW_J8cVX1rnJwJUNqm-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7SKW_J8cVX1rnJwJUNqm-2" target="7SKW_J8cVX1rnJwJUNqm-3">
+        <mxCell id="7SKW_J8cVX1rnJwJUNqm-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="7SKW_J8cVX1rnJwJUNqm-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="115.5" y="1078" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7SKW_J8cVX1rnJwJUNqm-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="7SKW_J8cVX1rnJwJUNqm-3" target="7SKW_J8cVX1rnJwJUNqm-4">
@@ -38,6 +37,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7SKW_J8cVX1rnJwJUNqm-10" value="台账索引与映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1040" width="190" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
