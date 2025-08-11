@@ -4,6 +4,157 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-38" value="双向映射图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" y="510" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-39" value="规则引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="609" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-40" value="AI算法评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="336" y="609" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-41" value="组合打分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252" y="708" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-42" value="最优资源方案列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="219" y="807" width="190" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-43" value="预占指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="906" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-44" value="成本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196" y="906" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-45" value="时延" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="339" y="906" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-46" value="风险评分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="482" y="906" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-38" target="gdkVvxTFDPakSuxXCSdS-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-38" target="gdkVvxTFDPakSuxXCSdS-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-39" target="gdkVvxTFDPakSuxXCSdS-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-40" target="gdkVvxTFDPakSuxXCSdS-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-41" target="gdkVvxTFDPakSuxXCSdS-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-42" target="gdkVvxTFDPakSuxXCSdS-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-42" target="gdkVvxTFDPakSuxXCSdS-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="243" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-42" target="gdkVvxTFDPakSuxXCSdS-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="386" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.92;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-42" target="gdkVvxTFDPakSuxXCSdS-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="881" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-56" value="最优资源方案" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="980" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-57" value="一键下发预占指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="84" y="1079" width="190" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-58" value="实时冲突校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1178" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-59" value="冲突检测" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="123" y="1277" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-60" value="锁定资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1463" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-61" value="返回冲突详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196" y="1463" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-62" value="预占成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="1562" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-63" value="预占失败" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="212" y="1562" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-56" target="gdkVvxTFDPakSuxXCSdS-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-57" target="gdkVvxTFDPakSuxXCSdS-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-58" target="gdkVvxTFDPakSuxXCSdS-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-67" value="无冲突" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-59" target="gdkVvxTFDPakSuxXCSdS-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="1427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-68" value="有冲突" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-59" target="gdkVvxTFDPakSuxXCSdS-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="1427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-60" target="gdkVvxTFDPakSuxXCSdS-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-61" target="gdkVvxTFDPakSuxXCSdS-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
