@@ -4,6 +4,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-18" value="资源变更事件流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="53" y="1160" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-19" value="CDC 捕获" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1259" width="127" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-20" value="Kafka 流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1358" width="122" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-21" value="增量写入图数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1457" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-22" value="历史版本保留" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="61" y="1556" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-23" value="最新拓扑快照 + 版本索引" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1655" width="239" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t3-fZMNGUR4GeTdsBv2f-18" target="t3-fZMNGUR4GeTdsBv2f-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t3-fZMNGUR4GeTdsBv2f-19" target="t3-fZMNGUR4GeTdsBv2f-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t3-fZMNGUR4GeTdsBv2f-20" target="t3-fZMNGUR4GeTdsBv2f-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t3-fZMNGUR4GeTdsBv2f-21" target="t3-fZMNGUR4GeTdsBv2f-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t3-fZMNGUR4GeTdsBv2f-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t3-fZMNGUR4GeTdsBv2f-22" target="t3-fZMNGUR4GeTdsBv2f-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
