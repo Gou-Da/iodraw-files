@@ -4,6 +4,49 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-1" value="高质量清洗后数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22" y="830" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-2" value="实体识别与对齐" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="29" y="929" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-3" value="消歧与去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1028" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-4" value="关系关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="54" y="1127" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-5" value="统一知识模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="38" y="1226" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-6" value="实体-关系三元组&#xa;节点属性 + 边属性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1325" width="192" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-1" target="-TsluM_Ecw2aA5BNNUWy-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-2" target="-TsluM_Ecw2aA5BNNUWy-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-3" target="-TsluM_Ecw2aA5BNNUWy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-4" target="-TsluM_Ecw2aA5BNNUWy-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-5" target="-TsluM_Ecw2aA5BNNUWy-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
