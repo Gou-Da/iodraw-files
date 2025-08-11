@@ -1,0 +1,116 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="d7N0G3kS_LiY8EvqXIcC">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-1" value="扫描任务指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-2" value="触发方式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="202" y="119" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-3" value="周期性触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="96" y="284" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-4" value="事件触发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="288" y="284" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-5" value="全网POP/端口/链路扫描" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="141" y="383" width="235" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-6" value="获取余量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="482" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-7" value="获取状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196" y="482" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-8" value="获取拓扑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="482" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-9" value="生成资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="581" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-10" value="POP节点&#xa;端口余量&#xa;路由&#xa;带宽池&#xa;保护路径&#xa;增值功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196" y="680" width="126" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-1" target="gdkVvxTFDPakSuxXCSdS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-2" target="gdkVvxTFDPakSuxXCSdS-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="259" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-2" target="gdkVvxTFDPakSuxXCSdS-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="259" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-3" target="gdkVvxTFDPakSuxXCSdS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-4" target="gdkVvxTFDPakSuxXCSdS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-5" target="gdkVvxTFDPakSuxXCSdS-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-5" target="gdkVvxTFDPakSuxXCSdS-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-5" target="gdkVvxTFDPakSuxXCSdS-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-6" target="gdkVvxTFDPakSuxXCSdS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="556" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-7" target="gdkVvxTFDPakSuxXCSdS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.05;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-8" target="gdkVvxTFDPakSuxXCSdS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="556" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-9" target="gdkVvxTFDPakSuxXCSdS-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
