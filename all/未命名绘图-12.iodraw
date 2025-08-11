@@ -7,9 +7,6 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-158" value="、&#xa;流量载荷中的IP数据&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="203" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-159" value="接收模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="137" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-160" value="批量解析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="59" y="236" width="126" height="49" as="geometry" />
         </mxCell>
@@ -19,14 +16,16 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-162" value="标准化原始记录流&#xa;统一 JSON Schema" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="25" y="434" width="194" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-158" target="ihJaGzNI_bMHwuoJwNSM-159">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-158">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="122" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-164" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-159" target="ihJaGzNI_bMHwuoJwNSM-160">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-164" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-160">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="122" y="186" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-165" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-160" target="ihJaGzNI_bMHwuoJwNSM-161">
@@ -38,6 +37,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-169" value="接收模块&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="176" width="203" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
