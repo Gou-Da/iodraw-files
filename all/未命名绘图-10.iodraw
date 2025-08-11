@@ -76,17 +76,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-71" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="707.5" y="2396" as="sourcePoint" />
+            <mxPoint x="708" y="2410" as="sourcePoint" />
             <mxPoint x="707.5" y="2479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-62">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-72" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="707.5" y="2541" as="sourcePoint" />
+            <mxPoint x="707" y="2530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-62" target="-TsluM_Ecw2aA5BNNUWy-63">
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-74" value="事件推送引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="629" y="2491.5" width="157" height="49" as="geometry" />
+          <mxGeometry x="628.5" y="2480" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
