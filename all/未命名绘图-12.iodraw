@@ -7,9 +7,6 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-86" value="原始域名记录流 JSON" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="42" y="910" width="214" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-89" value="标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="94" y="1207" width="110" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-90" value="合规标签附加" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="1306" width="157" height="49" as="geometry" />
         </mxCell>
@@ -29,15 +26,17 @@
             <mxPoint x="148.5" y="1108" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-89">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="148.5" y="1157" as="sourcePoint" />
+            <mxPoint x="149" y="1207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-89" target="ihJaGzNI_bMHwuoJwNSM-90">
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="ihJaGzNI_bMHwuoJwNSM-90">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="149" y="1256" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ihJaGzNI_bMHwuoJwNSM-90" target="ihJaGzNI_bMHwuoJwNSM-91">
@@ -51,8 +50,11 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-98" value="去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="41.5" y="1110" width="214" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-99" value="去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1257" width="214" height="49" as="geometry" />
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-99" value="标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1210" width="214" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-100" value="标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1320" width="214" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
