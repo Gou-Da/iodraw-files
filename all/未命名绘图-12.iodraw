@@ -42,8 +42,8 @@
         <mxCell id="ihJaGzNI_bMHwuoJwNSM-49" value="版本追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44.5" y="320" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ihJaGzNI_bMHwuoJwNSM-50" value="版本追踪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="380" width="156" height="49" as="geometry" />
+        <mxCell id="ihJaGzNI_bMHwuoJwNSM-50" value="数据库快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="420" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
