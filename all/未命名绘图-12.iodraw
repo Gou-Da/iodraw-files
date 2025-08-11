@@ -7,9 +7,6 @@
         <mxCell id="evL9GY7C-0-nNeZI_gQj-12" value="域名-IP事件流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="36" y="20" width="161" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-14" value="去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="218" width="93" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="evL9GY7C-0-nNeZI_gQj-15" value="聚合访问量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="317" width="142" height="49" as="geometry" />
         </mxCell>
@@ -22,15 +19,17 @@
             <mxPoint x="116.5" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="evL9GY7C-0-nNeZI_gQj-14">
+        <mxCell id="evL9GY7C-0-nNeZI_gQj-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="116.5" y="168" as="sourcePoint" />
+            <mxPoint x="116.5" y="218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="evL9GY7C-0-nNeZI_gQj-14" target="evL9GY7C-0-nNeZI_gQj-15">
+        <mxCell id="evL9GY7C-0-nNeZI_gQj-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="evL9GY7C-0-nNeZI_gQj-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="116.5" y="267" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="evL9GY7C-0-nNeZI_gQj-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="evL9GY7C-0-nNeZI_gQj-15" target="evL9GY7C-0-nNeZI_gQj-16">
@@ -39,7 +38,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="evL9GY7C-0-nNeZI_gQj-21" value="5 min 滑动窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="140" width="161" height="49" as="geometry" />
+          <mxGeometry x="35.5" y="120" width="161" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="evL9GY7C-0-nNeZI_gQj-22" value="去重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="196.5" y="230" width="161" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
