@@ -25,9 +25,6 @@
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-60" value="图谱变更事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="629" y="2360" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-61" value="事件推送引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="629" y="2492" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-62" value="运营商 OSS/BSS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="621" y="2623" width="172" height="49" as="geometry" />
         </mxCell>
@@ -79,14 +76,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-60" target="-TsluM_Ecw2aA5BNNUWy-61">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="707.5" y="2492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-61" target="-TsluM_Ecw2aA5BNNUWy-62">
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="-TsluM_Ecw2aA5BNNUWy-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="707.5" y="2541" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-TsluM_Ecw2aA5BNNUWy-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-TsluM_Ecw2aA5BNNUWy-62" target="-TsluM_Ecw2aA5BNNUWy-63">
@@ -94,8 +93,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-TsluM_Ecw2aA5BNNUWy-74" value="图谱变更事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="2443" width="157" height="49" as="geometry" />
+        <mxCell id="-TsluM_Ecw2aA5BNNUWy-74" value="事件推送引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="629" y="2491.5" width="157" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
