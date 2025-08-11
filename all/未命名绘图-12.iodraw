@@ -4,49 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-1" value="资源变更事件流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="20" width="173" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-2" value="CDC 捕获" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="119" width="127" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-3" value="Kafka 流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="79" y="218" width="122" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-4" value="增量写入图数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="317" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-5" value="历史版本保留" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="61" y="416" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-6" value="最新拓扑快照 + 版本索引" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="515" width="239" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="evL9GY7C-0-nNeZI_gQj-1" target="evL9GY7C-0-nNeZI_gQj-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="evL9GY7C-0-nNeZI_gQj-2" target="evL9GY7C-0-nNeZI_gQj-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="evL9GY7C-0-nNeZI_gQj-3" target="evL9GY7C-0-nNeZI_gQj-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="evL9GY7C-0-nNeZI_gQj-4" target="evL9GY7C-0-nNeZI_gQj-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="evL9GY7C-0-nNeZI_gQj-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="evL9GY7C-0-nNeZI_gQj-5" target="evL9GY7C-0-nNeZI_gQj-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
