@@ -4,67 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-25" value="业务需求对象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="750" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-26" value="图化映射引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="115" y="849" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-28" value="生成节点&#xa;需求节点&#xa;资源节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45" y="948" width="124" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-29" value="生成边&#xa;满足度&#xa;约束权重" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219" y="948" width="125" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-30" value="双向映射图&#xa;需求-资源-约束三元组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1082" width="217" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.2;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-25" target="gdkVvxTFDPakSuxXCSdS-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="99" y="824" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.8;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="289" y="824" />
-            </Array>
-            <mxPoint x="289" y="799" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-26" target="gdkVvxTFDPakSuxXCSdS-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="107" y="923" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-26" target="gdkVvxTFDPakSuxXCSdS-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="281" y="923" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-28" target="gdkVvxTFDPakSuxXCSdS-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="107" y="1057" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-29" target="gdkVvxTFDPakSuxXCSdS-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="281" y="1057" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-37" value="资源快照" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="750" width="157" height="49" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
