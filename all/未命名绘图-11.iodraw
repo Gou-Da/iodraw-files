@@ -13,9 +13,6 @@
         <mxCell id="gdkVvxTFDPakSuxXCSdS-78" value="生成容量告警事件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="184" y="2203" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-79" value="告警推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="216" y="2302" width="125" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-80" value="阈值、预测值、建议扩容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="2401" width="236" height="49" as="geometry" />
         </mxCell>
@@ -52,14 +49,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-78" target="gdkVvxTFDPakSuxXCSdS-79">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="278.5" y="2302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdkVvxTFDPakSuxXCSdS-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-79" target="gdkVvxTFDPakSuxXCSdS-80">
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="gdkVvxTFDPakSuxXCSdS-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="278.5" y="2351" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-89" value="未超出" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gdkVvxTFDPakSuxXCSdS-77">
@@ -80,7 +79,10 @@
           <mxGeometry x="280" y="1920" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gdkVvxTFDPakSuxXCSdS-93" value="静默处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="381" y="2203" width="204" height="49" as="geometry" />
+          <mxGeometry x="385" y="2203" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gdkVvxTFDPakSuxXCSdS-94" value="静默处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="484" y="2310" width="204" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
