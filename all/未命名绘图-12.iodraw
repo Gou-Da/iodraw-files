@@ -44,7 +44,7 @@
           <mxGeometry x="36" y="320" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="evL9GY7C-0-nNeZI_gQj-24" value="高活跃域名-IP列表&#xa;CSV" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="400" width="161" height="49" as="geometry" />
+          <mxGeometry x="36" y="420" width="161" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
