@@ -43,6 +43,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_ZWe5jlW-svGH9BZlPPJ-29" value="分流接收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWe5jlW-svGH9BZlPPJ-30" value="逐层解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="559" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWe5jlW-svGH9BZlPPJ-31" value="会话聚合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="658" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWe5jlW-svGH9BZlPPJ-32" value="异常检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="757" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZWe5jlW-svGH9BZlPPJ-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ZWe5jlW-svGH9BZlPPJ-29" target="_ZWe5jlW-svGH9BZlPPJ-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZWe5jlW-svGH9BZlPPJ-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ZWe5jlW-svGH9BZlPPJ-30" target="_ZWe5jlW-svGH9BZlPPJ-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ZWe5jlW-svGH9BZlPPJ-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_ZWe5jlW-svGH9BZlPPJ-31" target="_ZWe5jlW-svGH9BZlPPJ-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
