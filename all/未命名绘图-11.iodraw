@@ -158,11 +158,13 @@
             <mxPoint x="560.5" y="1075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKnnWLmicuj_pUjhb9Gn-26" value="代理端口更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-3" target="JKnnWLmicuj_pUjhb9Gn-1">
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-26" value="代理端口更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="1249" />
+              <mxPoint x="340" y="1248" />
             </Array>
+            <mxPoint x="560.5" y="1248" as="sourcePoint" />
+            <mxPoint x="94.54761904761904" y="1248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-27" value="重启子进程，指定新监控端口8081" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-4">
