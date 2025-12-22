@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="d7N0G3kS_LiY8EvqXIcC">
-    <mxGraphModel dx="1366" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,10 +209,10 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-32" value="终止当前子进程（端口8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="432.45" y="1660" />
+              <mxPoint x="432.45" y="1700" />
             </Array>
-            <mxPoint x="89.99761904761904" y="1660" as="sourcePoint" />
-            <mxPoint x="779.95" y="1660" as="targetPoint" />
+            <mxPoint x="89.99761904761904" y="1700" as="sourcePoint" />
+            <mxPoint x="779.95" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-33" value="子进程终止成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-4" target="JKnnWLmicuj_pUjhb9Gn-1">
@@ -235,6 +235,7 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-35" value="子进程重启成功，完成流量转发" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-4" target="JKnnWLmicuj_pUjhb9Gn-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="470" y="1650" />
               <mxPoint x="440" y="1620" />
             </Array>
           </mxGeometry>
