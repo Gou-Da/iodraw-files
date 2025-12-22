@@ -31,11 +31,12 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-9" value="[持续监测系统代理]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="JKnnWLmicuj_pUjhb9Gn-7">
           <mxGeometry y="133" width="388" height="4" as="geometry" />
         </mxCell>
-        <mxCell id="JKnnWLmicuj_pUjhb9Gn-10" value="请求检测系统空闲端口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-10" value="检测本机空闲端口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-2">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="237" y="176" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-11" value="返回空闲端口（如8080）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-2" target="JKnnWLmicuj_pUjhb9Gn-1">
