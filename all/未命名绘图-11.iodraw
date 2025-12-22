@@ -116,10 +116,10 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-21" value="终止当前流量监控子进程（端口8080）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="437" y="1217" />
+              <mxPoint x="437" y="1277" />
             </Array>
-            <mxPoint x="94.54761904761904" y="1217" as="sourcePoint" />
-            <mxPoint x="784.5" y="1217" as="targetPoint" />
+            <mxPoint x="94.54761904761904" y="1277" as="sourcePoint" />
+            <mxPoint x="784.5" y="1277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-22" value="子进程终止成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
@@ -206,11 +206,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKnnWLmicuj_pUjhb9Gn-32" value="终止当前子进程（端口8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-4">
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-32" value="终止当前子进程（端口8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="437" y="1610" />
+              <mxPoint x="432.45" y="1640" />
             </Array>
+            <mxPoint x="89.99761904761904" y="1640" as="sourcePoint" />
+            <mxPoint x="779.95" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-33" value="子进程终止成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-4" target="JKnnWLmicuj_pUjhb9Gn-1">
@@ -223,6 +225,7 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-34" value="重启子进程，将流量转发到被改后的端口9090（同时监听8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="340" y="1590" />
               <mxPoint x="437" y="1714" />
             </Array>
           </mxGeometry>
