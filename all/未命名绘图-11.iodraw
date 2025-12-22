@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-18" value="轮询/监听网站名单变化" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-5" target="JKnnWLmicuj_pUjhb9Gn-5">
-          <mxGeometry x="-0.2637" y="-3" relative="1" as="geometry">
+          <mxGeometry x="-0.9941" y="28" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1012" y="638" />
               <mxPoint x="1080" y="650" />
@@ -120,11 +120,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKnnWLmicuj_pUjhb9Gn-22" value="子进程终止成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-4" target="JKnnWLmicuj_pUjhb9Gn-1">
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-22" value="子进程终止成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="1041" />
+              <mxPoint x="440" y="1098" />
             </Array>
+            <mxPoint x="784.5" y="1098" as="sourcePoint" />
+            <mxPoint x="94.54761904761904" y="1098" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-23" value="请求新的系统空闲端口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-2">
