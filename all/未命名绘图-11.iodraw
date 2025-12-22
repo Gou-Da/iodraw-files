@@ -215,6 +215,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-36" value="程序启动" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="20" y="95" width="150" height="49" as="geometry" />
+        </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-37" value="检测到网站名单变化" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
           <mxGeometry x="878" y="856" width="166" height="49" as="geometry" />
         </mxCell>
