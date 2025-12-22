@@ -209,15 +209,17 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-32" value="终止当前子进程（端口8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="432.45" y="1640" />
+              <mxPoint x="432.45" y="1660" />
             </Array>
-            <mxPoint x="89.99761904761904" y="1640" as="sourcePoint" />
-            <mxPoint x="779.95" y="1640" as="targetPoint" />
+            <mxPoint x="89.99761904761904" y="1660" as="sourcePoint" />
+            <mxPoint x="779.95" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-33" value="子进程终止成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-4" target="JKnnWLmicuj_pUjhb9Gn-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="450" y="1780" />
+              <mxPoint x="390" y="1700" />
               <mxPoint x="440" y="1662" />
             </Array>
           </mxGeometry>
@@ -233,7 +235,7 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-35" value="子进程重启成功，完成流量转发" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-4" target="JKnnWLmicuj_pUjhb9Gn-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="1766" />
+              <mxPoint x="440" y="1620" />
             </Array>
           </mxGeometry>
         </mxCell>
