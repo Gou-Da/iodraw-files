@@ -89,11 +89,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-18" value="轮询/监听网站名单变化" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-5" target="JKnnWLmicuj_pUjhb9Gn-5">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-1" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1012" y="638" />
+              <mxPoint x="1080" y="650" />
               <mxPoint x="1012" y="668" />
             </Array>
+            <mxPoint x="-5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-19" value="轮询/监听系统代理变更" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-6" target="JKnnWLmicuj_pUjhb9Gn-6">
