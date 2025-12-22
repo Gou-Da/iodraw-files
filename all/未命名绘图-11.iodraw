@@ -143,10 +143,10 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-24" value="返回新空闲端口（如8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="1033" />
+              <mxPoint x="240" y="1029" />
             </Array>
-            <mxPoint x="324.5" y="1033" as="sourcePoint" />
-            <mxPoint x="94.54761904761904" y="1033" as="targetPoint" />
+            <mxPoint x="324.5" y="1029" as="sourcePoint" />
+            <mxPoint x="94.54761904761904" y="1029" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-25" value="将系统代理更新为新端口（8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-3">
