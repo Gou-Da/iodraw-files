@@ -28,7 +28,7 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-8" value="[持续监测网站名单]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="JKnnWLmicuj_pUjhb9Gn-7">
           <mxGeometry x="30" width="358" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JKnnWLmicuj_pUjhb9Gn-9" value="[持续监测系统代理]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="JKnnWLmicuj_pUjhb9Gn-7">
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-9" value="[持续监测系统代理]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#000000;" vertex="1" parent="JKnnWLmicuj_pUjhb9Gn-7">
           <mxGeometry y="133" width="388" height="4" as="geometry" />
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-10" value="检测本机空闲端口" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-2">
@@ -89,13 +89,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-18" value="轮询/监听网站名单变化" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-5" target="JKnnWLmicuj_pUjhb9Gn-5">
-          <mxGeometry x="-1" y="19" relative="1" as="geometry">
+          <mxGeometry x="-0.9941" y="18" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1012" y="638" />
               <mxPoint x="1080" y="650" />
               <mxPoint x="1012" y="668" />
             </Array>
-            <mxPoint x="-5" y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-19" value="轮询/监听系统代理变更" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-6" target="JKnnWLmicuj_pUjhb9Gn-6">
