@@ -116,10 +116,10 @@
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-21" value="终止当前流量监控子进程（端口8080）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="437" y="1059" />
+              <mxPoint x="437" y="1060" />
             </Array>
-            <mxPoint x="94.54761904761904" y="1059" as="sourcePoint" />
-            <mxPoint x="784.5" y="1059" as="targetPoint" />
+            <mxPoint x="94.54761904761904" y="1060" as="sourcePoint" />
+            <mxPoint x="784.5" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-22" value="子进程终止成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
@@ -149,11 +149,13 @@
             <mxPoint x="94.54761904761904" y="1029" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKnnWLmicuj_pUjhb9Gn-25" value="将系统代理更新为新端口（8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-1" target="JKnnWLmicuj_pUjhb9Gn-3">
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-25" value="将系统代理更新为新端口（8081）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="337" y="1197" />
+              <mxPoint x="337" y="1075" />
             </Array>
+            <mxPoint x="94.54761904761904" y="1075" as="sourcePoint" />
+            <mxPoint x="560.5" y="1075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-26" value="代理端口更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-3" target="JKnnWLmicuj_pUjhb9Gn-1">
