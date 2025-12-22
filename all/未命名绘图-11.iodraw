@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-18" value="轮询/监听网站名单变化" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-5" target="JKnnWLmicuj_pUjhb9Gn-5">
-          <mxGeometry x="-0.9941" y="18" relative="1" as="geometry">
+          <mxGeometry x="-0.2637" y="-3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1012" y="638" />
               <mxPoint x="1080" y="650" />
