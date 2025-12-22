@@ -176,11 +176,13 @@
             <mxPoint x="784.5" y="1154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JKnnWLmicuj_pUjhb9Gn-28" value="新子进程启动成功，按新名单监测流量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-4" target="JKnnWLmicuj_pUjhb9Gn-1">
+        <mxCell id="JKnnWLmicuj_pUjhb9Gn-28" value="新子进程启动成功，按新名单监测流量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="1353" />
+              <mxPoint x="440" y="1352" />
             </Array>
+            <mxPoint x="784.5" y="1352" as="sourcePoint" />
+            <mxPoint x="94.54761904761904" y="1352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKnnWLmicuj_pUjhb9Gn-29" value="发送「系统代理被修改」通知（附被改后的端口9090）" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="JKnnWLmicuj_pUjhb9Gn-6" target="JKnnWLmicuj_pUjhb9Gn-1">
