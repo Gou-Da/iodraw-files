@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="pz1JrPKMc3AgzjPdoUBg">
-    <mxGraphModel dx="206" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,6 +310,78 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="arSj8TNRZ8RQfNI6DprJ-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-64" target="arSj8TNRZ8RQfNI6DprJ-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-74" value="进入数据库创建界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="154" y="3810" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-75" value="选择数据库类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="176" y="3909" width="162" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-76" value="填写IP/端口/账号密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="4144" width="219" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-77" value="配置对应连接参数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="289" y="4144" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-78" value="连接测试与权限校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4243" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-79" value="保存数据库配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="4342" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-80" value="标记数据库状态为“可用”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="138" y="4441" width="238" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-81" value="完成数据库创建闭环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="154" y="4540" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-74" target="arSj8TNRZ8RQfNI6DprJ-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-83" value="MySQL" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-75" target="arSj8TNRZ8RQfNI6DprJ-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="4108" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-84" value="其他数据库" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-75" target="arSj8TNRZ8RQfNI6DprJ-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="4108" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-76" target="arSj8TNRZ8RQfNI6DprJ-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="4218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-86" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.8;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-77" target="arSj8TNRZ8RQfNI6DprJ-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="4218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-87" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-78" target="arSj8TNRZ8RQfNI6DprJ-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-88" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-79" target="arSj8TNRZ8RQfNI6DprJ-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-89" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-80" target="arSj8TNRZ8RQfNI6DprJ-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
