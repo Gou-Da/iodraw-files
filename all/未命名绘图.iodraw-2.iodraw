@@ -500,6 +500,81 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-114" value="进入表关系管理界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="5630" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-115" value="选择目标数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="61" y="5729" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-116" value="加载已同步的数据库表列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="5828" width="254" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-117" value="拖拽字段建立表间关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="5927" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-118" value="配置关联类型/业务说明" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="33" y="6026" width="228" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-119" value="关联校验：字段类型/业务合理性检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="6125" width="245" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-120" value="生成可视化表关系图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="37" y="6242" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-121" value="保存表关系配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="6341" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-122" value="标记关系状态为“已生效”" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28" y="6440" width="238" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-123" value="完成表关系管理闭环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="6539" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-114" target="arSj8TNRZ8RQfNI6DprJ-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-115" target="arSj8TNRZ8RQfNI6DprJ-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-116" target="arSj8TNRZ8RQfNI6DprJ-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-117" target="arSj8TNRZ8RQfNI6DprJ-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-118" target="arSj8TNRZ8RQfNI6DprJ-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-119" target="arSj8TNRZ8RQfNI6DprJ-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-120" target="arSj8TNRZ8RQfNI6DprJ-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-131" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-121" target="arSj8TNRZ8RQfNI6DprJ-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-132" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-122" target="arSj8TNRZ8RQfNI6DprJ-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
