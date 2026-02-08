@@ -700,6 +700,97 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-160" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="7930" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-161" value="梳理核心业务模块能力（文档上传/向量化/知识问答等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="8029" width="255" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-162" value="对各能力进行接口抽象与标准化封装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="8163" width="254" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-163" value="统一封装为MCP协议格式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="29" y="8280" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-164" value="接口功能与兼容性测试校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="8379" width="253" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-165" value="选择目标外部场景" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="58" y="8478" width="178" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-166" value="场景适配配置（接口适配/权限对接/功能调试）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="8729" width="245" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-167" value="场景接入测试与验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="44" y="8845" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-168" value="开放MCP协议接口供上层应用调用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22" y="8944" width="251" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-169" value="上层应用调用接口并反馈使用效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="9061" width="253" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-170" value="支持接口迭代优化与场景扩展" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="9178" width="253" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-171" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="9294" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-172" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-160" target="arSj8TNRZ8RQfNI6DprJ-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-173" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-161" target="arSj8TNRZ8RQfNI6DprJ-162">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-174" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-162" target="arSj8TNRZ8RQfNI6DprJ-163">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-175" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-163" target="arSj8TNRZ8RQfNI6DprJ-164">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-176" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-164" target="arSj8TNRZ8RQfNI6DprJ-165">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-177" value="水滴/安信等" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-165" target="arSj8TNRZ8RQfNI6DprJ-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-178" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-166" target="arSj8TNRZ8RQfNI6DprJ-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-179" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-167" target="arSj8TNRZ8RQfNI6DprJ-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-180" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-168" target="arSj8TNRZ8RQfNI6DprJ-169">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-181" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-169" target="arSj8TNRZ8RQfNI6DprJ-170">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-182" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-170" target="arSj8TNRZ8RQfNI6DprJ-171">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
