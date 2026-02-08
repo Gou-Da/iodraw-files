@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="pz1JrPKMc3AgzjPdoUBg">
-    <mxGraphModel dx="1687" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,6 +243,73 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="arSj8TNRZ8RQfNI6DprJ-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-43" target="arSj8TNRZ8RQfNI6DprJ-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-57" value="启动Excel知识库创建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="44" y="2880" width="212" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-58" value="上传/选择目标Excel文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="32" y="2979" width="235" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-59" value="批量导入Excel元数据（表结构/字段注释）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3078" width="259" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-60" value="人工补充业务规则/Excel查询场景模板" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23" y="3195" width="252" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-61" value="知识校验：元数据与规则一致性检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22" y="3311" width="254" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-62" value="生成Excel专属结构化知识图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="3428" width="258" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-63" value="知识库版本发布" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="63" y="3544" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-64" value="关联智能问数模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3643" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-65" value="完成Excel知识库创建闭环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="28" y="3742" width="243" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-57" target="arSj8TNRZ8RQfNI6DprJ-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-58" target="arSj8TNRZ8RQfNI6DprJ-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-59" target="arSj8TNRZ8RQfNI6DprJ-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-60" target="arSj8TNRZ8RQfNI6DprJ-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-61" target="arSj8TNRZ8RQfNI6DprJ-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-62" target="arSj8TNRZ8RQfNI6DprJ-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-63" target="arSj8TNRZ8RQfNI6DprJ-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arSj8TNRZ8RQfNI6DprJ-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="arSj8TNRZ8RQfNI6DprJ-64" target="arSj8TNRZ8RQfNI6DprJ-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
